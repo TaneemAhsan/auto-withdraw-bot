@@ -1,0 +1,9 @@
+node_modules/
+build/
+.DS_Store
+*.log
+.next/
+yarn-error.log*
+.env
+npm-debug.log*
+.pnpm-store/
